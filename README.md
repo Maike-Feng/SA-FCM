@@ -12,6 +12,3 @@
 ## **Public dataset link**
 - [Hyperspectral Remote Sensing Scenes](https://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes)
 - [WHU-Hi UAV-borne Hyperspectral Datasets](https://rsidea.whu.edu.cn/resource_WHUHi_sharing.htm)
-
-## **Citation**
-If the code here is useful to you, please cite this article.
